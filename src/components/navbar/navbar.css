@@ -1,0 +1,22 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #037584;
+    color: aliceblue;
+    text-align: center;    
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    padding: 0.5rem;
+}
+
+h1 {
+    margin-top: 0px;
+}
