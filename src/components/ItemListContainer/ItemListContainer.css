@@ -1,5 +1,10 @@
-.item-list-container {
-    padding: 30px;
-    text-align: center;
 
+
+.item-list-container {
+    padding: 0px;
+    text-align: center;
+}
+.saludo {
+    font-size: 20px;
+    font-weight: 700;
 }

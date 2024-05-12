@@ -1,0 +1,32 @@
+
+
+.itemD {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: "img detail";
+    align-items: center;
+    justify-items: center;
+}
+
+.img {
+    width: 350px;
+    text-align: center}
+
+.detail {
+    justify-self: left;
+}
+
+.name {
+    font-size: 40px;
+    margin-right: 100px;
+
+}
+
+.description {
+    margin-right: 100px;
+}
+
+.stock {
+    color: grey;
+
+}
