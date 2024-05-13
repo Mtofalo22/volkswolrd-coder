@@ -4,10 +4,11 @@
     align-items: center;
     background-color: #037584;
     color: aliceblue;
-    text-align: center;   
+    text-align: center;
 }
 
-.icon {display: flex;
+.icon {
+    display: flex;
     align-items: center;
 }
 
@@ -19,14 +20,17 @@
 .list-nav {
     font-style: none;
     padding: 0px;
+    }
 
+.volksWolrd{
+    text-decoration: none;
+    margin: 0px;   
+    color: aliceblue;
 }
 
 .lista {
     display: inline;
     padding: 0.5rem;
-}
-
-h1 {
-    margin: 0px;
+    text-decoration: none;
+    color: aliceblue;
 }
