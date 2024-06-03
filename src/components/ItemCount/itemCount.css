@@ -1,0 +1,19 @@
+.butonsCount {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+}
+
+.buttons{
+    width: 35px;
+    margin: 0px 30px 25px;
+}    
+
+.stockNumber {
+    font-weight: 700;
+}
+
+.buttonAddCart{
+    padding-left: 23px;
+}
+

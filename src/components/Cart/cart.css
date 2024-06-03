@@ -1,0 +1,27 @@
+.cart-detail {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.carrito-tittle {
+  text-align: center;
+}
+.cart-img {
+  width: 250px;
+  height: 200px;
+}
+
+.limpiar-carrito {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart-vacio {
+  text-align: center;
+}
+
+.total-price {
+  text-align: center;
+}

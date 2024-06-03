@@ -1,6 +1,7 @@
 
 
-.item-list-container {
+.item-list-container,
+.item-list-tittle {
     padding: 0px;
     text-align: center;
 }

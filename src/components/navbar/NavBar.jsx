@@ -8,8 +8,8 @@ const NavBar = () => {
 
         <div className="nav-bar">
             <div className="icon">
-                <a href="/"><img className="imgLogo" src="./src/assets/logovw.png" alt="" /></a>
-                <a href="/" className="volksWolrd"><h1>VolksWorld</h1></a>
+                <Link to="/"><img className="imgLogo" src="./src/assets/logovw.png" alt="" /></Link>
+                <Link to="/" className="volksWolrd"><h1>VolksWorld</h1></Link>
             </div>
             <div className="list-nav">
                 <Link to="/category/repuestos-originales" className="lista">Repuestos originales</Link>
