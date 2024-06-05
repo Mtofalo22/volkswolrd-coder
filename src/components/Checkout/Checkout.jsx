@@ -72,7 +72,7 @@ const Checkout = () => {
       })
       .finally(() => {
         updateStock();
-        limpiarCarrito();
+        limpiarCarrito(false);
       });
   };
 
